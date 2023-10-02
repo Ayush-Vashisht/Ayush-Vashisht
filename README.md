@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Vashisht</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<!-- <h3 align="center">A passionate Software developer from India</h3> -->
 
-- 👯 I’m looking to collaborate on **FullStack projects**
+- 🎓 Third year student currently pursuing B.tech from National Institute of Technology Jamshedpur, India.
+
+- 👯 looking to collaborate on **FullStack projects**
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, and any general software development questions.**
 
